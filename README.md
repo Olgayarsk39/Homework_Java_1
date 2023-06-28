@@ -6,4 +6,4 @@
 
 ## Решение
 
-[Решение задачи](Ru/Program.java)
+[Решение задачи](ru/egorova/api/homework1/Program.java)
